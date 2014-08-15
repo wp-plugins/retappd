@@ -1,0 +1,29 @@
+=== Retappd ===
+Contributors: jaydensibert
+Donate link: http://jaydensibert.com/retappd-wordpress-plugin
+Tags: retappd, untappd, untappd.com, API, json, jayden sibert, jaydensibert.com, craft beer, beer, checkins
+Requires at least: 3.0.1
+Tested up to:  3.9.2
+Stable tag: 1.0
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+Displays a user's Untappd checkins.
+
+== Description ==
+
+Displays a user's Untappd checkins.
+
+== Installation ==
+
+1. Upload the full directory into your wp-content/plugins directory
+
+2. Activate the plugin through the 'Plugins' menu in WordPress
+
+3. Visit your Retappd Settings (Settings - Retappd)
+
+4. Configure required Retappd options
+
+5. Place the Retappd shortcode on the pages that you want to give users access to the Untappd user feed: [retappd]
+
+== Changelog ==
