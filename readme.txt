@@ -8,7 +8,7 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-This plugin displays a user's Untappd checkins in a post or a page by the use of a shortcode.
+The Retappd plugin displays a user's Untappd checkins in a post or a page by the use of a shortcode.
 
 == Description ==
 
@@ -17,9 +17,10 @@ This plugin can be used to display a user's most recent checkins in a post or a 
 == Installation ==
 
 1. Download the plugin and unzip it. Upload the full directory into your wp-content/plugins directory
-2. Activate the plugin through the 'Plugins' menu in WordPress
-3. Visit your Retappd Settings (Settings - Retappd)
-4. Configure required Retappd options (Untappd Client ID, Client Secret and username is mandatory)
-5. Place the Retappd shortcode on the pages that you want to give users access to the Untappd user feed: [retappd]
+1. Activate the plugin through the 'Plugins' menu in WordPress
+1. Sign Up for Untappd API keys if you do not already have them - http://untappd.com/api/register
+1. Visit your Retappd Settings (Settings - Retappd)
+1. Configure required Retappd options (Untappd Client ID, Client Secret and username is mandatory)
+1. Place the Retappd shortcode on the pages that you want to give users access to the Untappd user feed: [retappd]
 
 == Changelog ==
