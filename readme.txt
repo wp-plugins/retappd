@@ -12,7 +12,7 @@ This plugin displays a user's Untappd checkins in a post or a page by the use of
 
 == Description ==
 
-This plugin can be used to display a user's most recent checkins in a post or a page by the use of a shortcode. You can choose what pieces of Untappd checkin information that you would like to display in plugin's settings. Example usage of the shortcode is as follows: [retappd].
+This plugin can be used to display a user's most recent checkins in a post or a page by the use of a shortcode. You can choose what pieces of Untappd checkin information that you would like to display in the plugin's settings. Example usage of the shortcode is as follows: [retappd].
 
 == Installation ==
 
