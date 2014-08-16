@@ -17,13 +17,9 @@ This plugin can be used to display a user's most recent checkins in a post or a 
 == Installation ==
 
 1. Download the plugin and unzip it. Upload the full directory into your wp-content/plugins directory
-
 2. Activate the plugin through the 'Plugins' menu in WordPress
-
 3. Visit your Retappd Settings (Settings - Retappd)
-
 4. Configure required Retappd options (Untappd Client ID, Client Secret and username is mandatory)
-
 5. Place the Retappd shortcode on the pages that you want to give users access to the Untappd user feed: [retappd]
 
 == Changelog ==
