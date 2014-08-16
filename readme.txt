@@ -1,7 +1,7 @@
 === Retappd ===
 Contributors: jaydensibert
 Donate link: http://jaydensibert.com/retappd-wordpress-plugin
-Tags: retappd, untappd, untappd.com, API, json, jayden sibert, craft beer, beer, checkins
+Tags: retappd, untappd, untappd.com, API, json, craft beer, beer, checkins, feeds, feed, shortcode, post, page, social, social media
 Requires at least: 3.0.1
 Tested up to:  3.9.2
 Stable tag: 1.0
