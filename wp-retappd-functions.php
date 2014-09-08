@@ -623,7 +623,9 @@ function my_retappd_options() {
 						
 						<hr></div>
 						
-						<div><p>To find your Untappd Username, log in to the Untappd website <a href=\"http://untappd.com\" target=\"_blank\">http://www.untappd.com</a>. At the top of the page, hover over your profile icon (to the left of the search bar) and click Account Settings. You will see your Username displayed here. Use this value in the above field. Example: https://untappd.com/user/<strong>username</strong></p>
+						<div><p>To find your Untappd Username, log in to the Untappd website <a href=\"http://untappd.com\" target=\"_blank\">http://www.untappd.com</a>. At the top of the page, hover over your profile icon (to the left of the search bar) and click Account Settings. You will see your Username displayed here. Use this value in the above field. Example: https://untappd.com/user/<strong>username</strong>
+						<p><strong>Note</strong>: The username <strong>MUST HAVE</strong> Untappd user checkin activity. If not, there isn't anything to display.</p>
+						</p>
 						
 						<p><strong>Untappd Username</strong></p><p><input type=\"text\" id=\"settings-field\" name=\"new-retappd-username\" value=\"$new_retappd_username\"/></p>
 						
