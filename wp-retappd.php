@@ -3,7 +3,7 @@
    Plugin Name: Retappd
    Plugin URI: http://jaydensibert.com/retappd-wordpress-plugin
    Description: Displays recent Untappd checkins for a provided user. This plugin can be used to display a user's most recent checkins in a post or a page by the use of a shortcode. You can choose what pieces of Untappd checkin information that you would like to display in the plugin's settings. Example usage of the shortcode is as follows: [retappd].
-   Version: 1.3
+   Version: 1.4
    Author: Jayden Sibert
    Author URI: http://www.jaydensibert.com
    License: GPLv2 or later
