@@ -15,7 +15,7 @@ $retappd_url	= "https://api.untappd.com/v4/user/checkins/$retappd_username?clien
 	
 
 	// Make Untappd API Request
-	$retappd_url	= "http://api.untappd.com/v4/user/checkins/$retappd_username?client_id=$client_id&client_secret=$client_secret&max_id=$max_id&limit=$result_limit";
+	$retappd_url	= "https://api.untappd.com/v4/user/checkins/$retappd_username?client_id=$client_id&client_secret=$client_secret&max_id=$max_id&limit=$result_limit";
 	
 
 
