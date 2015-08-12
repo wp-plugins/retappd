@@ -3,7 +3,7 @@ Contributors: jaydensibert
 Donate link: http://jaydensibert.com/retappd-wordpress-plugin
 Tags: retappd, untappd, untappd.com, API, json, craft beer, beer, checkins, feeds, feed, shortcode, post, page, social, social media
 Requires at least: 3.0.1
-Tested up to:  4.2
+Tested up to: 4.2.4
 Stable tag: 1.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
